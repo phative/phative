@@ -1,0 +1,13 @@
+{
+    "name": "phative/phative",
+    "description": "Write native desktop apps in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateusz Cholewka",
+            "email": "mateusz@cholewka.com.pl"
+        }
+    ],
+    "require": {}
+}
